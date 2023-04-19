@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/81bb4b165684019.640b6038d133e.gif)
 
 <h1 align="center">Hi 👋, I'm Artem Hryshchenko</h1>
-<h3 align="center">A passionate frontend developer from Ukraine.</h3>
+<h3 align="center">A passionate, junior frontend developer from Ukraine.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/036/437/829/original/raw-n-plow-doesntmatter.gif?1617692044">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k1p1w&label=Profile%20views&color=0e75b6&style=flat" alt="k1p1w" /> </p>
