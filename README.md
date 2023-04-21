@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React, Tailwind.**
 
-- 👨‍💻 All of my projects are available at [-__-](https://k1p1w.github.io/react-portfolio-three-js/)
+- 👨‍💻 All of my projects are available at [https://cdna.artstation.com/p/assets/images/images/008/253/418/large/finnian-mckeown-melbl.jpg?1511503466](https://k1p1w.github.io/react-portfolio-three-js/)
 
 - 💬 Ask me about **HTML, CSS/SCSS, JavaScript.**
 
