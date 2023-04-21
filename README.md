@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React, Tailwind.**
 
-- 👨‍💻 All of my projects are available at [<img align="center" alt="Coding" title="My portfolio website." width="30" height="30" src="https://icons8.com/icon/qeq9VoprwR4r/user">](https://k1p1w.github.io/react-portfolio-three-js/)
+- 👨‍💻 All of my projects are available at [<img align="center" alt="Coding" title="My portfolio website." width="25" height="25" src="https://user-images.githubusercontent.com/90558407/233555570-c1a7cbbb-ebc6-4a47-a3c7-fc01f68c8d9a.png">](https://k1p1w.github.io/react-portfolio-three-js/).
 
 - 💬 Ask me about **HTML, CSS/SCSS, JavaScript.**
 
