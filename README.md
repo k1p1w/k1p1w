@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/81bb4b165684019.640b6038d133e.gif)
 <div align="center">
-  <a href="https://www.youtube.com/c/UCoZLKKHlq7zz5wBK_6N8Xyw?sub_confirmation=1">
+  <a href="https://www.youtube.com/cchannel/UCoZLKKHlq7zz5wBK_6N8Xyw?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCoZLKKHlq7zz5wBK_6N8Xyw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
   <a href="https://www.youtube.com/channel/UCoZLKKHlq7zz5wBK_6N8Xyw">
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCoZLKKHlq7zz5wBK_6N8Xyw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
